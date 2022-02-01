@@ -21,10 +21,11 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+[![adarshkrdubay's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshkrdubay)](https://github.comadarshkrdubay)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adarshkrdubay&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://adarshkrdubay.github.io)
+
