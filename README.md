@@ -1,6 +1,6 @@
 <!---### Hi there 👋--->
 
-[![MasterHead](https://www.canva.com/design/DAEk8YiFoEU/54OJBENS3mansn95_zQL_A/view?utm_content=DAEk8YiFoEU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)](https://github.com/adarshkrduba)
+[![](https://www.canva.com/design/DAEk8YiFoEU/9ag7Ib9kD_BUyUUq1hSXIg/view?utm_content=DAEk8YiFoEU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)](https://github.com/adarshkrduba)
 
 
 
