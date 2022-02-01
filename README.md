@@ -1,6 +1,6 @@
 <!---### Hi there 👋--->
 
-[![](https://www.canva.com/design/DAEk8YiFoEU/9ag7Ib9kD_BUyUUq1hSXIg/view?utm_content=DAEk8YiFoEU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)](https://github.com/adarshkrduba)
+[![](https://avatars.githubusercontent.com/u/81159937?v=4)](https://github.com/adarshkrduba)
 
 
 
@@ -37,3 +37,13 @@ Here are some ideas to get you started:-->
 ![](https://komarev.com/ghpvc/?username=adarshkrdubay&color=green)
 [![](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://adarshkrdubay.github.io)
 
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/adarshkrdubay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+
+<a href="https://instagram.com/adarshkrdubay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+
+</p>
