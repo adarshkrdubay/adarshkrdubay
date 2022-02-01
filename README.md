@@ -20,7 +20,8 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+![](https://komarev.com/ghpvc/?username=adarshkrdubay&color=green)
+![](https://komarev.com/ghpvc/?username=adarshkrdubay&style=flat-square)
 
 ![Adarshkrdubay's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshkrdubay&show_icons=true&theme=radical)
 
