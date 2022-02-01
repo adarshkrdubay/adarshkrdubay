@@ -1,8 +1,8 @@
-<!---### Hi there 👋--->
+<!---### Hi there 👋
 
 [![](https://avatars.githubusercontent.com/u/81159937?v=4)](https://github.com/adarshkrduba)
 
-
+--->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F760&multiline=true&lines=Hello+World+👋.)](https:/https://github.com/adarshkrdubay)
 
@@ -16,14 +16,14 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ...
+<!---- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on Python project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!---- 👯 I’m looking to collaborate on Python project-->
+<!---- 🤔 I’m looking for help with ...-->
+<!---- 💬 Ask me about ...-->
+<!---- 📫 How to reach me: ...-->
+<!---- 😄 Pronouns: ...-->
+<!---- ⚡ Fun fact: ...-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=adarshkrdubay&theme=onedark)]()
 
