@@ -1,5 +1,9 @@
 <!---### Hi there 👋--->
 
+[![MasterHead](https://www.canva.com/design/DAEk8YiFoEU/54OJBENS3mansn95_zQL_A/view?utm_content=DAEk8YiFoEU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)](https://github.com/adarshkrduba)
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F760&multiline=true&lines=Hello+World+👋.)](https:/https://github.com/adarshkrdubay)
 
 
