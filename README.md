@@ -21,7 +21,8 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![adarshkrdubay's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshkrdubay)](https://github.com/adarshkrdubay)
+
+![Adarshkrdubay's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshkrdubay&show_icons=true&theme=radical)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adarshkrdubay&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/adarshkrdubay)
 
