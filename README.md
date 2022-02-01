@@ -1,6 +1,8 @@
-<!---### Hi there 👋
+### 
+ <h1 align="center" style="color: darkgreen ; font-size:300%; " > $ W3LC0M3</h1>
+  <h1 align="center" style="color: darkgreen ; font-size:300%; " > $Hi there 👋 . I'm Adarsh.</h1>
 
-[![](https://avatars.githubusercontent.com/u/81159937?v=4)](https://github.com/adarshkrduba)
+<!---[![](https://avatars.githubusercontent.com/u/81159937?v=4)](https://github.com/adarshkrduba)
 
 --->
 
