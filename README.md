@@ -1,6 +1,6 @@
-### Hi there 👋
+<!---### Hi there 👋--->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F760&multiline=true&lines=Hello+World.;I'm+Adarsh+a+high+school+student+interested+in+IT+field;+I+usually+spend+time+on+learning+cybersec+and+programing+stuff+.)](https:/https://github.com/adarshkrdubay)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F760&multiline=true&lines=Hello+World+👋.)](https:/https://github.com/adarshkrdubay)
 
 
 
